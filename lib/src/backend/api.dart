@@ -37,7 +37,7 @@ class CallApi {
       name: 'Che intendo.',
       description:
           'Much what so silken thy aidenn bird a truly upon quaint, liftednevermore have muttered on.',
-      img: 'assets/shoes/1.png',
+      img: 'assets/shoes1.png',
       price: 99,
     ),
     ShoeModel(
